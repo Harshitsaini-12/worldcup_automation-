@@ -200,31 +200,31 @@ function createScoreCard(teamName,match,matchFileName){
 
       page.drawText(t1,{
         x:320,
-        y:744,
+        y:665,
         size:8
       });
 
       page.drawText(t2,{
         x:320,
-        y:730,
+        y:642,
         size:8
       });
 
       page.drawText(t1s,{
         x:320,
-        y:706,
+        y:610,
         size:8
       });
 
       page.drawText(t2s,{
         x:320,
-        y:702,
+        y:580,
         size:8
       });
 
       page.drawText(result,{
         x:320,
-        y:688,
+        y:550,
         size:8
       });
 
